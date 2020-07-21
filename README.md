@@ -9,20 +9,23 @@
 <a href="https://wa.me/923343403220?text=Hi Rafay">
   <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=flat-square&logo=whatsapp&logoColor=white" />
 </a>
+<a href="https://syedrafayhashmi.me">
+  <img src="https://raw.githubusercontent.com/syedrafayhashmi/syedrafayhashmi/master/web.png" />
+</a>
 <!--
 **syedrafayhashmi/syedrafayhashmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on 
+- 🌱 I’m currently learning ReactJS
+- 👯 I’m looking to collaborate on startups
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 💬 Ask me about anything
+- 📫 How to reach me: 
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
+
 ![Syed Rafay Hashmi's github stats](https://github-readme-stats.vercel.app/api?username=syedrafayhashmi&show_icons=true&theme=dracula)
 
 [![HitCount](http://hits.dwyl.com/syedrafayhashmi/syedrafayhashmi.svg)](http://hits.dwyl.com/syedrafayhashmi/syedrafayhashmi)
