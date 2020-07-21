@@ -1,5 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/syedrafayhashmi/syedrafayhashmi/master/Hi.gif" width="30px">
 
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/syedrafayhashmi)
+
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/syedrafayhashmi)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/syed-rafay-hashmi-93a83428/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/syedrafayhashmi/)
@@ -22,3 +24,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Syed Rafay Hashmi's github stats](https://github-readme-stats.vercel.app/api?username=syedrafayhashmi&show_icons=true&theme=dracula)
+
+[![HitCount](http://hits.dwyl.com/syedrafayhashmi/syedrafayhashmi.svg)](https://hits.dwyl.com/syedrafayhashmi/syedrafayhashmi)
