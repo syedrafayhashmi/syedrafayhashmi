@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/syedrafayhashmi/syedrafayhashmi/master/Hi.gif" width="30px">
+### Hi there <img src="https://raw.githubusercontent.com/syedrafayhashmi/syedrafayhashmi/master/Hi.gif" width="30px"> 
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/syedrafayhashmi)
 
@@ -9,9 +9,9 @@
 <a href="https://wa.me/923343403220?text=Hi Rafay">
   <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=flat-square&logo=whatsapp&logoColor=white" />
 </a>
-<a href="https://syedrafayhashmi.me">
-  <img src="https://raw.githubusercontent.com/syedrafayhashmi/syedrafayhashmi/master/web.png" />
-</a>
+[Link button](https://syedrafayhashmi.me/){: .btn .btn-green }
+[Click me](https://syedrafayhashmi.me){: .btn}
+
 <!--
 **syedrafayhashmi/syedrafayhashmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 
 ![Syed Rafay Hashmi's github stats](https://github-readme-stats.vercel.app/api?username=syedrafayhashmi&show_icons=true&theme=dracula)
 
-[![HitCount](http://hits.dwyl.com/syedrafayhashmi/syedrafayhashmi.svg)](http://hits.dwyl.com/syedrafayhashmi/syedrafayhashmi)
+[![HitCount](https://hits.dwyl.com/syedrafayhashmi/syedrafayhashmi.svg)](https://hits.dwyl.com/syedrafayhashmi/syedrafayhashmi)
