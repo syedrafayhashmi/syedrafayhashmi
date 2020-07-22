@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-![Syed Rafay Hashmi's github stats](https://github-readme-stats.vercel.app/api?username=syedrafayhashmi&show_icons=true&theme=dracula)
+![Syed Rafay Hashmi's github stats](https://github-readme-stats.vercel.app/api?username=syedrafayhashmi&show_icons=true&theme=dark)
 
 [![HitCount](https://hits.dwyl.com/syedrafayhashmi/syedrafayhashmi.svg)](https://hits.dwyl.com/syedrafayhashmi/syedrafayhashmi)
