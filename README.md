@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
+[![HitCount](http://hits.dwyl.com/syedrafayhashmi/syedrafayhashmi.svg)](http://hits.dwyl.com/syedrafayhashmi/syedrafayhashmi)
 
 ![Syed Rafay Hashmi's github stats](https://github-readme-stats.vercel.app/api?username=syedrafayhashmi&show_icons=true&theme=dark)
 
