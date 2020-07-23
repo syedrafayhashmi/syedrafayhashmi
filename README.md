@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 
 ![Syed Rafay Hashmi's github stats](https://github-readme-stats.vercel.app/api?username=syedrafayhashmi&show_icons=true&theme=dark)
 
-[![HitCount](https://hits.dwyl.com/syedrafayhashmi/syedrafayhashmi.svg)](https://hits.dwyl.com/syedrafayhashmi/syedrafayhashmi)
+[![HitCount](http://hits.dwyl.com/syedrafayhashmi/syedrafayhashmi.svg)](https://hits.dwyl.com/syedrafayhashmi/syedrafayhashmi)
