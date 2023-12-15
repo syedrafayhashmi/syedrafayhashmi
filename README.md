@@ -3,8 +3,8 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/syedrafayhashmi)
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/syedrafayhashmi)
-[![Portfolio Website](https://img.shields.io/badge/Website-Portfolio%20Website-blue)](https://syedrafayhashmi.me)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/syed-rafay-hashmi-93a83428/)
+<!--[![Portfolio Website](https://img.shields.io/badge/Website-Portfolio%20Website-blue)](https://syedrafayhashmi.me)-->
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafayhashmi)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/syedrafayhashmi/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rafaysidsid@gmail.com)
 <a href="https://wa.me/923343403220?text=Hi Rafay">
