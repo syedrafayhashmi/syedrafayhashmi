@@ -6,7 +6,7 @@
 <!--[![Portfolio Website](https://img.shields.io/badge/Website-Portfolio%20Website-blue)](https://syedrafayhashmi.me)-->
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafayhashmi)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/syedrafayhashmi/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rafaysidsid@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:syedrafayhashmi@gmail.com)
 <a href="https://wa.me/923343403220?text=Hi Rafay">
   <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=flat-square&logo=whatsapp&logoColor=white" />
 </a>
